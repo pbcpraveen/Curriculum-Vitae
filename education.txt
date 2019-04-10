@@ -1,0 +1,43 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Education}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+  \cventry
+    {B.E. in Computer Science and Engineering
+   } % Degree
+    {SSN College of Engineering} % Institution
+    {9.106 CGPA (III Semester)}%CGPA
+    {Kalavakkam} % Location
+    {2017- present } % Date(s)
+    
+     
+ \end{cventries}
+ \begin{cventries}
+   \cventry
+     {12\high{th} Standard } % Degree
+    {The Hindu Senior Secondary School} % Institution
+    {94.8\%}%percentage
+    {Indra Nagar, Chennai} % Location
+    {2016- 2017 } % Date(s)
+   
+    
+\end{cventries}
+\begin{cventries}
+  \cventry
+{10\high{th} Standard } % Degree
+    {The Hindu Senior Secondary School} % Institution
+    {9.8 CGPA}%CGPA
+    {Indra Nagar, Chennai} % Location
+    {2014- 2015 } % Date(s)
+    {
+    }
+    
+%---------------------------------------------------------
+\end{cventries}

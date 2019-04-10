@@ -1,0 +1,14 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Summary}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvparagraph}
+
+%---------------------------------------------------------
+I am a Engineering student at SSN college of Engineering aspiring to lead my career in the research field. I am improving my skills on Machine Learning techniques and Computer Vision. I am interested in Object detection and Pattern Recognition algorithms. I am currently working on the project 'Automatic Number Plate Recognition System'. 
+\end{cvparagraph}

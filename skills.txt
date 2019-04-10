@@ -1,0 +1,6 @@
+\cvsection{Skills}
+\begin{cventries}
+{Machine Learning{\enskip\cdotp\enskip}Deep Learning{\enskip\cdotp\enskip}OpenCV{\enskip\cdotp\enskip}Keras{\enskip\cdotp\enskip} PyTorch{\enskip\cdotp\enskip}Pandas{\enskip\cdotp\enskip}Arduino{\enskip\cdotp\enskip}Android Studio
+}
+
+\end{cventries}

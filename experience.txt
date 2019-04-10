@@ -1,0 +1,27 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Experience}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {Project Assistant} % Job title
+    {ACI Automation Pvt. Ltd.,} % Organization
+    {255, 2nd Main road, Nehru Nagar,
+Kottivakkam(OMR),
+Chennai - 96} % Location
+    {Dec 2018 - Present} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Working with Professor Dr. T.T. Mirnalinee and Dr. P. Mirunalini to create create a Automatic Number plate Recognition System(APNR).}
+        \item {Build a model that uses both image processing technique and Deep learning techniques to locate the number plate in the given image or given frame of a video.}
+        \item {Trained OCR to recognize the characters in the number plate after segmentation. }
+      \end{cvitems}
+    }
+

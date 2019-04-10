@@ -1,0 +1,100 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Projects}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {Project Team Member} % Role
+    {GeoLifeClef ({\tiny github.com/pbcpraveen/GLC19)})} % Event
+    {} % Location
+    {Mar 2019 - Present} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {This is a research project that is conducted a competition as a part of International conference (ImageClef)}
+        \item{The aim of the research is to find the occurrence  of all species for the particular latitude and longitude  }
+        \item{The current planned model is a deep ResNet architecture with 152 layers}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+ \cventry
+    {Project Assistant } % Role
+   {Automatic Number Plate Recognition System ({\tiny github.com/pbcpraveen/NumberPlateRecognition})}% Event
+    {} % Location
+    {Dec 2018 - Present} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {APNR is a model that aims to automate the entry of the vehicle information in the data base}
+        \item{The model locates the exact location of the number plate in the given image and recognizes it}
+         \item{The project employees two CNN models , one to validate the selection of number plate from the image and another for the Optical Character Recognition (OCR) part.}
+      \end{cvitems}
+      }
+%     
+\cventry
+    {Personal}
+    {Flight Delay Prediction({\tiny https://drive.google.com/drive/u/0/folders/16mosiQ5M9Zx-mxfexw0lhBbyKfjrAc-h})}
+    {}
+    {Jan 2018 - Present}
+    {
+     \begin{cvitems} % Description(s)
+        \item {This is a research project that aims to predict the delay of the fight based on the weather condition and time of departure }
+        \item{There are two different dataset containing the information of flight and weather. The task is merge these two datasets and preprocess them such that it is applicable to the model used for classification and regression task. }
+      \end{cvitems}
+    }
+
+\end{cventries}
+
+
+
+\cventry
+    {Team Memeber}
+    {Machine Hand: Arduino}
+    {}
+    {Sep 2019}
+    {
+     \begin{cvitems} % Description(s)
+        \item {Machine hand is an Arduino project that translates the motion of human hand into a robot hand. }
+        \item{The Data required for simulation is collected from a IMU sensor that is attached to a person's hand and the motion is simulated by a servo attached to the robot hand.}
+      \end{cvitems}
+    }
+
+\end{cventries}
+
+\cventry
+    {Team Memeber}
+    {Tic-Tac-Toe: Android Application}
+    {}
+    {Oct 2018}
+    {
+     \begin{cvitems} % Description(s)
+        \item {Tic-Tac-Toe is our take on the classic game tic toc toe. }
+        \item{The game offers a single playes mode with 5 level of difficulties.}
+      \end{cvitems}
+    }
+
+\end{cventries}
+
+\cventry
+    {Team Leader}
+    {Air Hockey: Game in C++({\tiny github.com/pbcpraveen/Air-Hockey})}
+    {}
+    {Nov 2016 - Jan 2017}
+    {
+     \begin{cvitems} % Description(s)
+        \item {Air Hockey is a our take on the game commonly played in many amusement places.}
+        \item{The project employees C-garphics and a C++ file handling system to give absolute smoothness in the working }
+           \item{The game also provides a single player mode with 4 varying level of difficulties.}
+      \end{cvitems}
+    }
+
+\end{cventries}
+
+
+
